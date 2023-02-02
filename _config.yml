@@ -1,0 +1,13 @@
+# Site settings
+title: Test's Blog
+
+
+author: 
+  name: Mr Test
+  email: Test@hotmail.com
+  
+  
+description: "Mr Test's Blog"
+
+# Build settings
+remote_theme: jekyll/minima
